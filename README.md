@@ -1,2 +1,2 @@
-# mars_lander
-Airbus &amp; University of Cambridge Mars Lander Project, Summer 2016
+# lander_dvan2
+Submission to the 2016 Mars Lander Project, Cambridge University.

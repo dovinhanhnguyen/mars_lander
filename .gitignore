@@ -1,18 +1,14 @@
-# Prerequisites
-*.d
-
 # Compiled Object files
 *.slo
 *.lo
 *.o
-*.obj
+lander
 
 # Precompiled Headers
 *.gch
 *.pch
 
 # Compiled Dynamic libraries
-*.so
 *.dylib
 *.dll
 
@@ -25,8 +21,17 @@
 *.la
 *.a
 *.lib
+*.so
 
 # Executables
 *.exe
 *.out
 *.app
+
+# Project files
+*.project
+*.geany
+*.projects
+lander_project
+*.csv
+octave-workspace
